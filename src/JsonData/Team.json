@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Cynthia James",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "dribbble": "https://www.dribbble.com", 
+        "linkedin": "https://www.linkedin.com",
+        "image": "/images/team-1.jpg", 
+        "position": "gym trainer"
+    },
+    {
+        "name": "David Anderson",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "dribbble": "https://www.dribbble.com", 
+        "linkedin": "https://www.linkedin.com",
+        "image": "/images/team-2.jpg", 
+        "position": "gym trainer"
+    },
+    {
+        "name": "Purity Daniels",
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com",
+        "dribbble": "https://www.dribbble.com", 
+        "linkedin": "https://www.linkedin.com",
+        "image": "/images/team-3.jpg", 
+        "position": "gym trainer"
+    }
+]

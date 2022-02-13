@@ -1,0 +1,38 @@
+[
+    {   "id": 1,
+        "name": "home",
+        "direction": "row align-items-center",
+        "background": "/images/home-bg.jpg",
+        "alt": "home-section-image",
+        "image": "/images/home-img.png",
+        "subtitle": "back to the gym ",
+        "title": "Start Your Fitness Journey Today",
+        "text": "",
+        "btnText": "read more",
+        "hasBtn": true,
+        "content": []
+    },
+    {
+        "id": 2,
+        "name": "about",
+        "direction": "row align-items-center flex-row-reverse",
+        "background": "",
+        "alt": "about-section-image",
+        "image": "/images/about-img.png",
+        "subtitle": "about us",
+        "title": "Daily Workout And Stay Active At Home",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione unde pariatur enim necessitatibus doloribus? Perferendis quod iusto esse consectetur quia voluptatum asperiores nulla ducimus delectus praesentium facilis labore, architecto quibusdam.",
+        "hasBtn": false,
+        "btnText": "join us",
+        "content": [
+            "How To Support Your Immune System.",
+            "A Guide To 30 Days Fitness & Workout Challenges",
+            "Guide To Ease Your Back To The Gym",
+            "The Mental Health Benefit Of Exercise In The Home"
+        ]
+    }
+]
+
+
+
+

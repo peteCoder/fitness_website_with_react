@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "name": "Basic", 
+        "amount": 50,
+        "approvedTraining": [
+            {
+                "approved": true,
+                "name": "personal tranining",
+                "id": 3
+            },
+            {
+                "approved": true,
+                "name": "classes per week",                
+                "id": 4
+            },
+            {
+                "approved": false,
+                "name": "access to the gym",
+                "id": 5
+            },
+            {
+                "approved": false,
+                "name": "protein powder",
+                "id": 6
+            },
+            {
+                "approved": false,
+                "name": "membership",
+                "id": 7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium", 
+        "amount": 100,
+        "approvedTraining": [
+            {
+                "approved": true,
+                "name": "personal tranining",
+                "id": 8
+            },
+            {
+                "approved": true,
+                "name": "classes per week",
+                "id": 9
+            },
+            {
+                "approved": true,
+                "name": "access to the gym",
+                "id": 10
+            },
+            {
+                "approved": false,
+                "name": "protein powder",
+                "id": 11
+            },
+            {
+                "approved": false,
+                "name": "membership",
+                "id": 12
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Gold", 
+        "amount": 150, 
+        "approvedTraining": [
+            {
+                "approved": true,
+                "name": "personal tranining",
+                "id": 14
+            },
+            {
+                "approved": true,
+                "name": "classes per week",
+                "id": 15
+            },
+            {
+                "approved": true,
+                "name": "access to the gym",
+                "id": 16
+            },
+            {
+                "approved": true,
+                "name": "protein powder",
+                "id": 17
+            },
+            {
+                "approved": true,
+                "name": "membership", 
+                "id": 18
+            }
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

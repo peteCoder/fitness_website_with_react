@@ -1,24 +1,57 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { 
+  CounterContainer, 
+  MyCardContainer, 
+  HeaderContainer, 
+  HeroContainer, 
+  AllPricesContainer,
+  JoinUsContainer, 
+  TeamContainer,
+  MyBlogContainer, 
+  FooterBox
+} from './containers';
 
-function App() {
+import CoursesData from './JsonData/Courses.json';
+import BlogData from './JsonData/Blog.json';
+
+
+
+const App = () => {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+      <HeaderContainer/>
+      <HeroContainer/>
+      <CounterContainer/>
+
+      <MyCardContainer
+        heading="our popular courses"
+        subHeading="our courses"
+        Data={CoursesData}
+      />
+
+      <AllPricesContainer
+        heading="find a perfect plan"
+        subHeading="choose a plan"
+      />
+
+      <JoinUsContainer/>
+
+      <TeamContainer
+        heading="meet the expert team"
+        subHeading="our team"
+      />
+
+      <MyBlogContainer 
+        heading="our daily post"
+        subHeading="our blog"
+        Data={BlogData}
+      />
+
+      <FooterBox/>
+
+    </>
   );
 }
 

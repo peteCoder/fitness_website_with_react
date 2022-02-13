@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Build up",
+        "minutes": 140,
+        "days": "Mon - Thur", 
+        "image": "/images/img-1.jpg", 
+        "author": ""
+    },
+    {
+        "title": "Muscular Building",
+        "minutes": 143,
+        "days": "Mon - Thur", 
+        "image": "/images/img-2.jpg", 
+        "author": ""
+    },
+    {
+        "title": "Agility and endurance",
+        "minutes": 140,
+        "days": "Mon - Thur", 
+        "image": "/images/img-3.jpg", 
+        "author": ""
+    },
+    {
+        "title": "Stomach building",
+        "minutes": 140,
+        "days": "Mon - Thur", 
+        "image": "/images/img-5.jpg", 
+        "author": ""
+
+    },
+    {
+        "title": "Stomach building",
+        "minutes": 140,
+        "days": "Mon - Thur", 
+        "image": "/images/img-6.jpg", 
+        "author": ""
+
+    }
+]
+

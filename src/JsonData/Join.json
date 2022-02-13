@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "join",
+    "direction": "row align-items-center",
+    "background": "",
+    "alt": "join-section-image",
+    "image": "/images/join-us-image.png",
+    "subtitle": "join us",
+    "title": "Join Us & Get Upto 50% Off",
+    "btnText": "join us",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione unde pariatur enim necessitatibus doloribus? Perferendis quod iusto esse consectetur quia voluptatum asperiores nulla ducimus delectus praesentium facilis labore, architecto quibusdam.",
+    "hasBtn": true,
+    "content": []
+}
+
+
+

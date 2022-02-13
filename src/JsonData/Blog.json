@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Make yourself stronger",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nihil pariatur, inventore omnis magnam officia. Eaque porro maxime sed nobis error ducimus quasi quia fugit. Est libero quibusdam porro nemo.", 
+        "date": "21st May, 2022",
+        "author": "admin",
+        "image": "/images/img-1.jpg"
+    },
+
+    {
+        "title": "Get Better at what you do",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nihil pariatur, inventore omnis magnam officia. Eaque porro maxime sed nobis error ducimus quasi quia fugit. Est libero quibusdam porro nemo.",
+        "date": "31st May, 2022",
+        "author": "admin",
+        "image": "/images/img-2.jpg"
+    },
+
+    {
+        "title": "Move mountain in the gym",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nihil pariatur, inventore omnis magnam officia. Eaque porro maxime sed nobis error ducimus quasi quia fugit. Est libero quibusdam porro nemo.", 
+        "date": "7th May, 2022",
+        "author": "Susan",
+        "image": "/images/img-3.jpg"
+    },
+
+    {
+        "title": "Serve your weekend better",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nihil pariatur, inventore omnis magnam officia. Eaque porro maxime sed nobis error ducimus quasi quia fugit. Est libero quibusdam porro nemo.",
+        "date": "21st May, 2022",
+        "author": "Jack",
+        "image": "/images/img-4.jpg"
+    },
+
+    {
+        "title": "Survive your limit",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nihil pariatur, inventore omnis magnam officia. Eaque porro maxime sed nobis error ducimus quasi quia fugit. Est libero quibusdam porro nemo.", 
+        "date": "11th May, 2022",
+        "author": "daniel",
+        "image": "/images/img-5.jpg"
+    }
+    
+    
+]
